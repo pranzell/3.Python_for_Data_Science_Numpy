@@ -1,0 +1,5 @@
+3. Python for Data Science (Numpy)
+
+This repository contains examples in Python to get you started towards Data Science field.
+
+It contains examples related to use of Python's 'NUMPY' package.
